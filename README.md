@@ -5,3 +5,5 @@ I Gusti Agung Wijnana Aryasa
 Website to-do list dengan tasks statis yang sudah di add di dalam html
 
 <img width="1215" height="703" alt="image" src="https://github.com/user-attachments/assets/381368db-77d7-4a9b-b27b-14c47cff4093" />
+
+File index.html dan style.css ada di branch master
