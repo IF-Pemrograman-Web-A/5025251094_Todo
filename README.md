@@ -4,4 +4,4 @@ I Gusti Agung Wijnana Aryasa
 
 Website to-do list dengan tasks statis yang sudah di add di dalam html
 
-<img width="1215" height="703" alt="image" src="https://github.com/user-attachments/assets/381368db-77d7-4a9b-b27b-14c47cff4093" />
+<img width="1677" height="712" alt="image" src="https://github.com/user-attachments/assets/38402d25-8cdc-48af-9583-e247a8ec5f71" />
